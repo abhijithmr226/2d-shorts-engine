@@ -1,0 +1,56 @@
+{
+  "bpm": 104,
+  "key": "D",
+  "music": 0.08,
+  "bedDb": 24,
+  "amb": {
+    "1": "room",
+    "2": "room",
+    "7": "pub",
+    "8": "pub",
+    "9": "wind",
+    "10": "wind",
+    "11": "pub",
+    "13": "wind",
+    "14": "room",
+    "15": "room",
+    "27": "desk",
+    "28": "desk",
+    "29": "room",
+    "30": "desk",
+    "31": "desk",
+    "33": "desk",
+    "39": "room",
+    "40": "room"
+  },
+  "duck": [
+    { "start": 88.5, "end": 96.0, "gain": 0.18 },
+    { "start": 111.5, "end": 117.5, "gain": 0.22 },
+    { "start": 128.0, "end": 142.5, "gain": 0.25 }
+  ],
+  "sfx": [
+    { "shot": 2, "at": 0.8, "type": "blip" },
+    { "shot": 4, "at": 0.4, "type": "stamp" },
+    { "shot": 4, "at": 2.2, "type": "whip" },
+    { "shot": 6, "at": 0.1, "type": "whip" },
+    { "shot": 9, "at": 0.3, "type": "thump" },
+    { "shot": 11, "at": 0.5, "type": "chatter" },
+    { "shot": 13, "at": 0.4, "type": "whip" },
+    { "shot": 14, "at": 0.2, "type": "sub_drop" },
+    { "shot": 17, "at": 0.3, "type": "sub_drop" },
+    { "shot": 19, "at": 0.5, "type": "pop" },
+    { "shot": 20, "at": 1.6, "type": "stamp" },
+    { "shot": 22, "at": 0.4, "type": "card_slide" },
+    { "shot": 23, "at": 0.3, "type": "stamp" },
+    { "shot": 25, "at": 0.4, "type": "shimmer" },
+    { "shot": 27, "at": 0.3, "type": "sub_drop" },
+    { "shot": 29, "at": 1.0, "type": "pop" },
+    { "shot": 32, "at": 0.5, "type": "card_slide" },
+    { "shot": 37, "at": 0.6, "type": "blip" },
+    { "shot": 37, "at": 2.0, "type": "blip" },
+    { "shot": 37, "at": 3.4, "type": "blip" },
+    { "shot": 38, "at": 0.8, "type": "stamp" },
+    { "shot": 40, "at": 0.4, "type": "shimmer" }
+  ]
+}
+

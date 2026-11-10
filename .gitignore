@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Large Project Outputs & Videos
+Editing Project/
+out/
+episodes/**/out/
+ref/
+scratch/
+.claude/
+
+# Media & Audio Renders
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.m4v
+
+# Logs & Temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+props*.json

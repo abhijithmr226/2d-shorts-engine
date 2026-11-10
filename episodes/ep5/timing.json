@@ -1,0 +1,1353 @@
+{
+  "total": 97.96,
+  "shots": [
+    {
+      "id": 1,
+      "text": "In 2025, McDonald's made over $10 billion from rent alone.",
+      "start": 0.0,
+      "end": 5.98,
+      "words": [
+        {
+          "w": "In",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "w": "2025,",
+          "start": 0.16,
+          "end": 0.72
+        },
+        {
+          "w": "McDonald's",
+          "start": 1.56,
+          "end": 2.1
+        },
+        {
+          "w": "made",
+          "start": 2.1,
+          "end": 2.26
+        },
+        {
+          "w": "over",
+          "start": 2.26,
+          "end": 2.56
+        },
+        {
+          "w": "$10",
+          "start": 2.56,
+          "end": 3.0
+        },
+        {
+          "w": "billion",
+          "start": 3.0,
+          "end": 3.58
+        },
+        {
+          "w": "from",
+          "start": 3.58,
+          "end": 4.42
+        },
+        {
+          "w": "rent",
+          "start": 4.42,
+          "end": 4.72
+        },
+        {
+          "w": "alone.",
+          "start": 4.72,
+          "end": 5.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Yes. The company famous for selling burgers has a massive real-estate business hiding behind those golden arches.",
+      "start": 5.98,
+      "end": 13.46,
+      "words": [
+        {
+          "w": "Yes,",
+          "start": 5.98,
+          "end": 6.32
+        },
+        {
+          "w": "the",
+          "start": 6.74,
+          "end": 6.94
+        },
+        {
+          "w": "company",
+          "start": 6.94,
+          "end": 7.24
+        },
+        {
+          "w": "famous",
+          "start": 7.24,
+          "end": 7.6
+        },
+        {
+          "w": "for",
+          "start": 7.6,
+          "end": 8.02
+        },
+        {
+          "w": "selling",
+          "start": 8.02,
+          "end": 8.32
+        },
+        {
+          "w": "burgers",
+          "start": 8.32,
+          "end": 8.62
+        },
+        {
+          "w": "has",
+          "start": 8.62,
+          "end": 9.24
+        },
+        {
+          "w": "a",
+          "start": 9.24,
+          "end": 9.38
+        },
+        {
+          "w": "massive",
+          "start": 9.38,
+          "end": 9.84
+        },
+        {
+          "w": "real",
+          "start": 9.84,
+          "end": 10.16
+        },
+        {
+          "w": "estate",
+          "start": 10.16,
+          "end": 10.46
+        },
+        {
+          "w": "business",
+          "start": 10.46,
+          "end": 10.92
+        },
+        {
+          "w": "hiding",
+          "start": 10.92,
+          "end": 11.3
+        },
+        {
+          "w": "behind",
+          "start": 11.3,
+          "end": 11.76
+        },
+        {
+          "w": "those",
+          "start": 11.76,
+          "end": 12.02
+        },
+        {
+          "w": "golden",
+          "start": 12.02,
+          "end": 12.44
+        },
+        {
+          "w": "arches.",
+          "start": 12.44,
+          "end": 12.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "But this wasn't always the plan.",
+      "start": 13.46,
+      "end": 15.66,
+      "words": [
+        {
+          "w": "But",
+          "start": 13.46,
+          "end": 13.6
+        },
+        {
+          "w": "this",
+          "start": 13.6,
+          "end": 13.74
+        },
+        {
+          "w": "wasn't",
+          "start": 13.74,
+          "end": 14.08
+        },
+        {
+          "w": "always",
+          "start": 14.08,
+          "end": 14.46
+        },
+        {
+          "w": "the",
+          "start": 14.46,
+          "end": 14.72
+        },
+        {
+          "w": "plan.",
+          "start": 14.72,
+          "end": 15.12
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Back in 1954, a milkshake machine salesman named Ray Kroc discovered a small burger restaurant run by two brothers.",
+      "start": 15.66,
+      "end": 23.64,
+      "words": [
+        {
+          "w": "Back",
+          "start": 15.66,
+          "end": 15.8
+        },
+        {
+          "w": "in",
+          "start": 15.8,
+          "end": 15.98
+        },
+        {
+          "w": "1954,",
+          "start": 15.98,
+          "end": 16.82
+        },
+        {
+          "w": "a",
+          "start": 17.34,
+          "end": 17.48
+        },
+        {
+          "w": "milkshake",
+          "start": 17.48,
+          "end": 17.9
+        },
+        {
+          "w": "machine",
+          "start": 17.9,
+          "end": 18.2
+        },
+        {
+          "w": "salesman",
+          "start": 18.2,
+          "end": 18.66
+        },
+        {
+          "w": "named",
+          "start": 18.66,
+          "end": 19.12
+        },
+        {
+          "w": "Ray",
+          "start": 19.12,
+          "end": 19.44
+        },
+        {
+          "w": "Crock",
+          "start": 19.44,
+          "end": 19.94
+        },
+        {
+          "w": "discovered",
+          "start": 19.94,
+          "end": 20.42
+        },
+        {
+          "w": "a",
+          "start": 20.42,
+          "end": 20.68
+        },
+        {
+          "w": "small",
+          "start": 20.68,
+          "end": 20.96
+        },
+        {
+          "w": "burger",
+          "start": 20.96,
+          "end": 21.32
+        },
+        {
+          "w": "restaurant",
+          "start": 21.32,
+          "end": 21.78
+        },
+        {
+          "w": "run",
+          "start": 21.78,
+          "end": 22.2
+        },
+        {
+          "w": "by",
+          "start": 22.2,
+          "end": 22.5
+        },
+        {
+          "w": "two",
+          "start": 22.5,
+          "end": 22.72
+        },
+        {
+          "w": "brothers.",
+          "start": 22.72,
+          "end": 23.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "He saw something extraordinary.",
+      "start": 23.64,
+      "end": 25.28,
+      "words": [
+        {
+          "w": "He",
+          "start": 23.64,
+          "end": 23.82
+        },
+        {
+          "w": "saw",
+          "start": 23.82,
+          "end": 24.06
+        },
+        {
+          "w": "something",
+          "start": 24.06,
+          "end": 24.46
+        },
+        {
+          "w": "extraordinary.",
+          "start": 24.46,
+          "end": 25.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "A restaurant that was fast, efficient, and could be copied across the country.",
+      "start": 25.28,
+      "end": 30.9,
+      "words": [
+        {
+          "w": "A",
+          "start": 25.28,
+          "end": 26.18
+        },
+        {
+          "w": "restaurant",
+          "start": 26.18,
+          "end": 26.5
+        },
+        {
+          "w": "that",
+          "start": 26.5,
+          "end": 26.86
+        },
+        {
+          "w": "was",
+          "start": 26.86,
+          "end": 27.0
+        },
+        {
+          "w": "fast,",
+          "start": 27.0,
+          "end": 27.34
+        },
+        {
+          "w": "efficient,",
+          "start": 27.74,
+          "end": 28.24
+        },
+        {
+          "w": "and",
+          "start": 28.66,
+          "end": 28.78
+        },
+        {
+          "w": "could",
+          "start": 28.78,
+          "end": 28.9
+        },
+        {
+          "w": "be",
+          "start": 28.9,
+          "end": 29.04
+        },
+        {
+          "w": "copied",
+          "start": 29.04,
+          "end": 29.52
+        },
+        {
+          "w": "across",
+          "start": 29.52,
+          "end": 29.74
+        },
+        {
+          "w": "the",
+          "start": 29.74,
+          "end": 30.04
+        },
+        {
+          "w": "country.",
+          "start": 30.04,
+          "end": 30.44
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "He wanted to turn it into a massive empire.",
+      "start": 30.9,
+      "end": 34.0,
+      "words": [
+        {
+          "w": "He",
+          "start": 30.9,
+          "end": 31.02
+        },
+        {
+          "w": "wanted",
+          "start": 31.02,
+          "end": 31.22
+        },
+        {
+          "w": "to",
+          "start": 31.22,
+          "end": 31.42
+        },
+        {
+          "w": "turn",
+          "start": 31.42,
+          "end": 31.68
+        },
+        {
+          "w": "it",
+          "start": 31.68,
+          "end": 31.82
+        },
+        {
+          "w": "into",
+          "start": 31.82,
+          "end": 32.12
+        },
+        {
+          "w": "a",
+          "start": 32.12,
+          "end": 32.28
+        },
+        {
+          "w": "massive",
+          "start": 32.28,
+          "end": 32.58
+        },
+        {
+          "w": "empire.",
+          "start": 32.58,
+          "end": 33.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "But there was a problem.",
+      "start": 34.0,
+      "end": 35.58,
+      "words": [
+        {
+          "w": "But",
+          "start": 34.0,
+          "end": 34.12
+        },
+        {
+          "w": "there",
+          "start": 34.12,
+          "end": 34.42
+        },
+        {
+          "w": "was",
+          "start": 34.42,
+          "end": 34.56
+        },
+        {
+          "w": "a",
+          "start": 34.56,
+          "end": 34.66
+        },
+        {
+          "w": "problem.",
+          "start": 34.66,
+          "end": 35.04
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Opening more restaurants meant more land, more money and more risk.",
+      "start": 35.58,
+      "end": 40.4,
+      "words": [
+        {
+          "w": "Opening",
+          "start": 35.58,
+          "end": 35.82
+        },
+        {
+          "w": "more",
+          "start": 35.82,
+          "end": 36.1
+        },
+        {
+          "w": "restaurants",
+          "start": 36.1,
+          "end": 36.5
+        },
+        {
+          "w": "meant",
+          "start": 36.5,
+          "end": 37.02
+        },
+        {
+          "w": "more",
+          "start": 37.02,
+          "end": 37.28
+        },
+        {
+          "w": "land,",
+          "start": 37.28,
+          "end": 37.62
+        },
+        {
+          "w": "more",
+          "start": 38.16,
+          "end": 38.24
+        },
+        {
+          "w": "money,",
+          "start": 38.24,
+          "end": 38.62
+        },
+        {
+          "w": "and",
+          "start": 38.92,
+          "end": 39.18
+        },
+        {
+          "w": "more",
+          "start": 39.18,
+          "end": 39.4
+        },
+        {
+          "w": "risk.",
+          "start": 39.4,
+          "end": 39.72
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Then a man named Harry Sonneborn spotted an opportunity.",
+      "start": 40.4,
+      "end": 44.42,
+      "words": [
+        {
+          "w": "Then,",
+          "start": 40.4,
+          "end": 40.62
+        },
+        {
+          "w": "a",
+          "start": 40.92,
+          "end": 41.02
+        },
+        {
+          "w": "man",
+          "start": 41.02,
+          "end": 41.28
+        },
+        {
+          "w": "named",
+          "start": 41.28,
+          "end": 41.52
+        },
+        {
+          "w": "Harry",
+          "start": 41.52,
+          "end": 41.8
+        },
+        {
+          "w": "Sonneborn",
+          "start": 41.8,
+          "end": 42.52
+        },
+        {
+          "w": "spotted",
+          "start": 42.52,
+          "end": 42.96
+        },
+        {
+          "w": "an",
+          "start": 42.96,
+          "end": 43.3
+        },
+        {
+          "w": "opportunity.",
+          "start": 43.3,
+          "end": 43.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Why make money only from burgers when McDonald's could make money from the land too?",
+      "start": 44.42,
+      "end": 49.62,
+      "words": [
+        {
+          "w": "Why",
+          "start": 44.42,
+          "end": 44.56
+        },
+        {
+          "w": "make",
+          "start": 44.56,
+          "end": 44.76
+        },
+        {
+          "w": "money",
+          "start": 44.76,
+          "end": 44.96
+        },
+        {
+          "w": "only",
+          "start": 44.96,
+          "end": 45.44
+        },
+        {
+          "w": "from",
+          "start": 45.44,
+          "end": 45.72
+        },
+        {
+          "w": "burgers",
+          "start": 45.72,
+          "end": 46.02
+        },
+        {
+          "w": "when",
+          "start": 46.02,
+          "end": 46.74
+        },
+        {
+          "w": "McDonald's",
+          "start": 46.74,
+          "end": 47.38
+        },
+        {
+          "w": "could",
+          "start": 47.38,
+          "end": 47.44
+        },
+        {
+          "w": "make",
+          "start": 47.44,
+          "end": 47.62
+        },
+        {
+          "w": "money",
+          "start": 47.62,
+          "end": 47.86
+        },
+        {
+          "w": "from",
+          "start": 47.86,
+          "end": 48.12
+        },
+        {
+          "w": "the",
+          "start": 48.12,
+          "end": 48.26
+        },
+        {
+          "w": "land,",
+          "start": 48.26,
+          "end": 48.5
+        },
+        {
+          "w": "too?",
+          "start": 48.94,
+          "end": 49.1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "McDonald's began securing restaurant properties and leasing them to franchisees.",
+      "start": 49.62,
+      "end": 53.82,
+      "words": [
+        {
+          "w": "McDonald's",
+          "start": 49.62,
+          "end": 50.18
+        },
+        {
+          "w": "began",
+          "start": 50.18,
+          "end": 50.3
+        },
+        {
+          "w": "securing",
+          "start": 50.3,
+          "end": 50.94
+        },
+        {
+          "w": "restaurant",
+          "start": 50.94,
+          "end": 51.3
+        },
+        {
+          "w": "properties",
+          "start": 51.3,
+          "end": 51.92
+        },
+        {
+          "w": "and",
+          "start": 51.92,
+          "end": 52.42
+        },
+        {
+          "w": "leasing",
+          "start": 52.42,
+          "end": 52.62
+        },
+        {
+          "w": "them",
+          "start": 52.62,
+          "end": 52.94
+        },
+        {
+          "w": "to",
+          "start": 52.94,
+          "end": 53.12
+        },
+        {
+          "w": "franchisees.",
+          "start": 53.12,
+          "end": 53.82
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Now think about it.",
+      "start": 53.82,
+      "end": 55.56,
+      "words": [
+        {
+          "w": "Now",
+          "start": 53.82,
+          "end": 54.56
+        },
+        {
+          "w": "think",
+          "start": 54.56,
+          "end": 54.76
+        },
+        {
+          "w": "about",
+          "start": 54.76,
+          "end": 55.02
+        },
+        {
+          "w": "it.",
+          "start": 55.02,
+          "end": 55.22
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "The franchisee sells the burgers.",
+      "start": 55.56,
+      "end": 57.84,
+      "words": [
+        {
+          "w": "The",
+          "start": 55.56,
+          "end": 55.6
+        },
+        {
+          "w": "franchisee",
+          "start": 55.6,
+          "end": 56.36
+        },
+        {
+          "w": "sells",
+          "start": 56.36,
+          "end": 56.7
+        },
+        {
+          "w": "the",
+          "start": 56.7,
+          "end": 56.98
+        },
+        {
+          "w": "burgers.",
+          "start": 56.98,
+          "end": 57.18
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "McDonald's collects rent and royalties.",
+      "start": 57.84,
+      "end": 60.46,
+      "words": [
+        {
+          "w": "McDonald's",
+          "start": 57.84,
+          "end": 58.48
+        },
+        {
+          "w": "collects",
+          "start": 58.48,
+          "end": 58.64
+        },
+        {
+          "w": "rent",
+          "start": 58.64,
+          "end": 59.08
+        },
+        {
+          "w": "and",
+          "start": 59.08,
+          "end": 59.46
+        },
+        {
+          "w": "royalties.",
+          "start": 59.46,
+          "end": 59.72
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "One restaurant. Two revenue streams.",
+      "start": 60.46,
+      "end": 63.4,
+      "words": [
+        {
+          "w": "One",
+          "start": 60.46,
+          "end": 60.68
+        },
+        {
+          "w": "restaurant,",
+          "start": 60.68,
+          "end": 60.98
+        },
+        {
+          "w": "two",
+          "start": 61.5,
+          "end": 61.82
+        },
+        {
+          "w": "revenue",
+          "start": 61.82,
+          "end": 62.26
+        },
+        {
+          "w": "streams.",
+          "start": 62.26,
+          "end": 62.64
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "And here's the crazy part.",
+      "start": 63.4,
+      "end": 65.0,
+      "words": [
+        {
+          "w": "And",
+          "start": 63.4,
+          "end": 63.48
+        },
+        {
+          "w": "here's",
+          "start": 63.48,
+          "end": 63.76
+        },
+        {
+          "w": "the",
+          "start": 63.76,
+          "end": 63.86
+        },
+        {
+          "w": "crazy",
+          "start": 63.86,
+          "end": 64.08
+        },
+        {
+          "w": "part.",
+          "start": 64.08,
+          "end": 64.62
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "In 2025, McDonald's reported $10.4 billion in rental revenue from franchised restaurants alone.",
+      "start": 65.0,
+      "end": 73.14,
+      "words": [
+        {
+          "w": "In",
+          "start": 65.0,
+          "end": 65.08
+        },
+        {
+          "w": "2025,",
+          "start": 65.08,
+          "end": 65.88
+        },
+        {
+          "w": "McDonald's",
+          "start": 66.4,
+          "end": 67.0
+        },
+        {
+          "w": "reported",
+          "start": 67.0,
+          "end": 67.12
+        },
+        {
+          "w": "$10",
+          "start": 67.12,
+          "end": 67.76
+        },
+        {
+          "w": ".4",
+          "start": 67.76,
+          "end": 68.44
+        },
+        {
+          "w": "billion",
+          "start": 68.44,
+          "end": 68.9
+        },
+        {
+          "w": "in",
+          "start": 68.9,
+          "end": 69.74
+        },
+        {
+          "w": "rental",
+          "start": 69.74,
+          "end": 69.94
+        },
+        {
+          "w": "revenue",
+          "start": 69.94,
+          "end": 70.5
+        },
+        {
+          "w": "from",
+          "start": 70.5,
+          "end": 70.78
+        },
+        {
+          "w": "franchise",
+          "start": 70.78,
+          "end": 71.16
+        },
+        {
+          "w": "restaurants",
+          "start": 71.16,
+          "end": 71.76
+        },
+        {
+          "w": "alone.",
+          "start": 71.76,
+          "end": 72.44
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "That's rent. Not profit.",
+      "start": 73.14,
+      "end": 75.48,
+      "words": [
+        {
+          "w": "That's",
+          "start": 73.14,
+          "end": 73.44
+        },
+        {
+          "w": "rent,",
+          "start": 73.44,
+          "end": 73.7
+        },
+        {
+          "w": "not",
+          "start": 74.16,
+          "end": 74.48
+        },
+        {
+          "w": "profit.",
+          "start": 74.48,
+          "end": 74.98
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "So the next time you walk into McDonald's, remember...",
+      "start": 75.48,
+      "end": 78.52,
+      "words": [
+        {
+          "w": "So",
+          "start": 75.48,
+          "end": 75.62
+        },
+        {
+          "w": "the",
+          "start": 75.62,
+          "end": 75.72
+        },
+        {
+          "w": "next",
+          "start": 75.72,
+          "end": 75.84
+        },
+        {
+          "w": "time",
+          "start": 75.84,
+          "end": 76.12
+        },
+        {
+          "w": "you",
+          "start": 76.12,
+          "end": 76.28
+        },
+        {
+          "w": "walk",
+          "start": 76.28,
+          "end": 76.46
+        },
+        {
+          "w": "into",
+          "start": 76.46,
+          "end": 76.64
+        },
+        {
+          "w": "McDonald's,",
+          "start": 76.64,
+          "end": 77.44
+        },
+        {
+          "w": "remember,",
+          "start": 77.62,
+          "end": 77.84
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "You might think you're buying a burger.",
+      "start": 78.52,
+      "end": 80.66,
+      "words": [
+        {
+          "w": "you",
+          "start": 78.52,
+          "end": 78.72
+        },
+        {
+          "w": "might",
+          "start": 78.72,
+          "end": 78.86
+        },
+        {
+          "w": "think",
+          "start": 78.86,
+          "end": 79.18
+        },
+        {
+          "w": "you're",
+          "start": 79.18,
+          "end": 79.44
+        },
+        {
+          "w": "buying",
+          "start": 79.44,
+          "end": 79.68
+        },
+        {
+          "w": "a",
+          "start": 79.68,
+          "end": 79.86
+        },
+        {
+          "w": "burger.",
+          "start": 79.86,
+          "end": 80.1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "But behind those golden arches is a global real-estate and franchise empire.",
+      "start": 80.66,
+      "end": 85.9,
+      "words": [
+        {
+          "w": "But",
+          "start": 80.44,
+          "end": 80.8
+        },
+        {
+          "w": "behind",
+          "start": 80.8,
+          "end": 81.1
+        },
+        {
+          "w": "those",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "w": "golden",
+          "start": 81.4,
+          "end": 81.72
+        },
+        {
+          "w": "arches",
+          "start": 81.72,
+          "end": 82.16
+        },
+        {
+          "w": "is",
+          "start": 82.16,
+          "end": 82.6
+        },
+        {
+          "w": "a",
+          "start": 82.6,
+          "end": 82.7
+        },
+        {
+          "w": "global",
+          "start": 82.7,
+          "end": 82.98
+        },
+        {
+          "w": "real",
+          "start": 82.98,
+          "end": 83.42
+        },
+        {
+          "w": "estate",
+          "start": 83.42,
+          "end": 83.78
+        },
+        {
+          "w": "and",
+          "start": 83.78,
+          "end": 84.06
+        },
+        {
+          "w": "franchise",
+          "start": 84.06,
+          "end": 84.42
+        },
+        {
+          "w": "empire.",
+          "start": 84.42,
+          "end": 85.22
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Because sometimes, the biggest fortune isn't made by selling the product...",
+      "start": 85.9,
+      "end": 90.36,
+      "words": [
+        {
+          "w": "Because",
+          "start": 85.9,
+          "end": 86.08
+        },
+        {
+          "w": "sometimes,",
+          "start": 86.08,
+          "end": 86.48
+        },
+        {
+          "w": "the",
+          "start": 87.08,
+          "end": 87.16
+        },
+        {
+          "w": "biggest",
+          "start": 87.16,
+          "end": 87.4
+        },
+        {
+          "w": "fortune",
+          "start": 87.4,
+          "end": 87.82
+        },
+        {
+          "w": "isn't",
+          "start": 87.82,
+          "end": 88.4
+        },
+        {
+          "w": "made",
+          "start": 88.4,
+          "end": 88.6
+        },
+        {
+          "w": "by",
+          "start": 88.6,
+          "end": 88.84
+        },
+        {
+          "w": "selling",
+          "start": 88.84,
+          "end": 89.16
+        },
+        {
+          "w": "the",
+          "start": 89.16,
+          "end": 89.38
+        },
+        {
+          "w": "product.",
+          "start": 89.38,
+          "end": 89.68
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "It's made by owning what makes the business possible.",
+      "start": 90.36,
+      "end": 93.78,
+      "words": [
+        {
+          "w": "It's",
+          "start": 90.36,
+          "end": 90.48
+        },
+        {
+          "w": "made",
+          "start": 90.48,
+          "end": 90.68
+        },
+        {
+          "w": "by",
+          "start": 90.68,
+          "end": 90.98
+        },
+        {
+          "w": "owning",
+          "start": 90.98,
+          "end": 91.38
+        },
+        {
+          "w": "what",
+          "start": 91.38,
+          "end": 91.84
+        },
+        {
+          "w": "makes",
+          "start": 91.84,
+          "end": 92.08
+        },
+        {
+          "w": "the",
+          "start": 92.08,
+          "end": 92.32
+        },
+        {
+          "w": "business",
+          "start": 92.32,
+          "end": 92.58
+        },
+        {
+          "w": "possible.",
+          "start": 92.58,
+          "end": 93.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "This is Beyond Hunch.",
+      "start": 93.78,
+      "end": 96.2,
+      "words": [
+        {
+          "w": "This",
+          "start": 93.78,
+          "end": 93.98
+        },
+        {
+          "w": "is",
+          "start": 93.98,
+          "end": 94.46
+        },
+        {
+          "w": "Beyond",
+          "start": 94.46,
+          "end": 94.82
+        },
+        {
+          "w": "Hunch.",
+          "start": 94.82,
+          "end": 95.2
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Never stop thinking deeper.",
+      "start": 96.2,
+      "end": 97.96,
+      "words": [
+        {
+          "w": "Never",
+          "start": 96.2,
+          "end": 96.2
+        },
+        {
+          "w": "stop",
+          "start": 96.2,
+          "end": 96.66
+        },
+        {
+          "w": "thinking",
+          "start": 96.66,
+          "end": 97.0
+        },
+        {
+          "w": "deeper.",
+          "start": 97.0,
+          "end": 97.4
+        }
+      ]
+    }
+  ]
+}
